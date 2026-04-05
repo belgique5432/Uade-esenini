@@ -1,0 +1,36 @@
+* {
+    font-family: "Space Grotesk", sans-serif;
+    color: #212529;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.title {
+    font-size: 46px;
+}
+
+.navbar{
+    background-color: #212529;
+    padding: 10px 15px; 
+}
+
+.navbar li a{
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #212529;
+}
+
+footer p {
+    color: white;
+    padding: 3%;
+    margin-left: 40%;
+}
+
+.text-type-2 {
+  font-family: "Lora", serif;
+  font-weight: bolder;
+  color: #434c5e;
+}
